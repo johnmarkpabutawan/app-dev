@@ -7,7 +7,7 @@ My first repository
 
 My favorite anime series is **Black Clover**. It is an exciting anime about magic, friendship, hard work, and determination. The story follows Asta, a boy born without magic who dreams of becoming the Wizard King.
 
-![Black Clover](https://upload.wikimedia.org/wikipedia/en/6/67/Black_Clover%2C_volume_1.jpg)
+![Black Clover](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCE0aY4VRXxof1LZ6U-VnELToxNKX34Nyb5zY2KuK-Aw&s=10)
 
 ## Main Characters
 
